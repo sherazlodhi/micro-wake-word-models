@@ -3,7 +3,7 @@
     "wake_word": "Yaar Sheeday",
     "author": "Sheraz Lodhi",
     "website": "https://www.sherazlodhi.com/",
-    "model": "./yaar_sheeday.tflite",
+    "model": "yaar_sheeday.tflite",
     "version": 1,
     "micro": {
       "probability_cutoff": 0.6,
