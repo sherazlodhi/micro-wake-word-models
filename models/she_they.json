@@ -1,9 +1,9 @@
 {
     "type": "micro",
-    "wake_word": "She_they",
+    "wake_word": "sheday",
     "author": "Sheraz Lodhi",
     "website": "https://www.sherazlodhi.com/",
-    "model": "./she_they.tflite",
+    "model": "./okay_nabu.tflite",
     "version": 1,
     "micro": {
       "probability_cutoff": 0.6,
