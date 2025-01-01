@@ -3,11 +3,7 @@
     "wake_word": "Yaar Sheeday",
     "author": "Sheraz Lodhi",
     "website": "https://www.sherazlodhi.com/",
-<<<<<<< HEAD:models/yaar_sheeday.json
-    "model": "yaar_sheeday.tflite",
-=======
     "model": "./she_they.tflite",
->>>>>>> 9c62b7b (updated tflite):models/she_they.json
     "version": 1,
     "micro": {
       "probability_cutoff": 0.6,
