@@ -1,6 +1,6 @@
 {
     "type": "micro",
-    "wake_word": "Yaar Sheeday",
+    "wake_word": "She_they",
     "author": "Sheraz Lodhi",
     "website": "https://www.sherazlodhi.com/",
     "model": "./she_they.tflite",
